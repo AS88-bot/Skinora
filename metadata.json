@@ -1,0 +1,8 @@
+{
+  "name": "Skinora",
+  "description": "Specialized beauty, cosmetics, and personal hygiene price comparison portal across Nykaa, Sephora, Dot & Key, and Myntra.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
